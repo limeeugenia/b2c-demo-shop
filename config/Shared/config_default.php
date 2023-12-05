@@ -656,6 +656,7 @@ $config[OmsConstants::PROCESS_LOCATION] = [
 ];
 $config[OmsConstants::ACTIVE_PROCESSES] = [
     'ForeignPaymentB2CStateMachine01',
+    'ForeignPaymentStateMachine01',
 ];
 $config[SalesConstants::PAYMENT_METHOD_STATEMACHINE_MAPPING] = [
     PaymentConfig::PAYMENT_FOREIGN_PROVIDER => 'ForeignPaymentB2CStateMachine01',
