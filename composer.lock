@@ -28042,20 +28042,20 @@
         },
         {
             "name": "spryker/message-broker",
-            "version": "1.9.0",
+            "version": "1.9.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/spryker/message-broker.git",
-                "reference": "39bca2ed0ad89f3168b667188a2b79e5e4bcadc8"
+                "reference": "9c58d443d093094c8200f5bfe13bf89b39a69d2d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/spryker/message-broker/zipball/39bca2ed0ad89f3168b667188a2b79e5e4bcadc8",
-                "reference": "39bca2ed0ad89f3168b667188a2b79e5e4bcadc8",
+                "url": "https://api.github.com/repos/spryker/message-broker/zipball/9c58d443d093094c8200f5bfe13bf89b39a69d2d",
+                "reference": "9c58d443d093094c8200f5bfe13bf89b39a69d2d",
                 "shasum": ""
             },
             "require": {
-                "php": ">=8.0",
+                "php": ">=8.1",
                 "spryker/kernel": "^3.30.0",
                 "spryker/log": "^3.0.0",
                 "spryker/message-broker-extension": "^1.2.0",
@@ -28097,9 +28097,9 @@
             ],
             "description": "MessageBroker module",
             "support": {
-                "source": "https://github.com/spryker/message-broker/tree/1.9.0"
+                "source": "https://github.com/spryker/message-broker/tree/1.9.1"
             },
-            "time": "2023-08-31T11:27:42+00:00"
+            "time": "2023-11-22T15:24:58+00:00"
         },
         {
             "name": "spryker/message-broker-aws",
@@ -46086,20 +46086,20 @@
         },
         {
             "name": "spryker/tax-app",
-            "version": "0.2.0",
+            "version": "0.2.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/spryker/tax-app.git",
-                "reference": "a6b7a4375f28cb65ffd99e69e1835654c52646d9"
+                "reference": "c97d55ec05dfe85aa3e94403ede60cc44d32ba6e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/spryker/tax-app/zipball/a6b7a4375f28cb65ffd99e69e1835654c52646d9",
-                "reference": "a6b7a4375f28cb65ffd99e69e1835654c52646d9",
+                "url": "https://api.github.com/repos/spryker/tax-app/zipball/c97d55ec05dfe85aa3e94403ede60cc44d32ba6e",
+                "reference": "c97d55ec05dfe85aa3e94403ede60cc44d32ba6e",
                 "shasum": ""
             },
             "require": {
-                "php": ">=8.0",
+                "php": ">=8.1",
                 "psr/http-message": "^1.0.0",
                 "spryker/calculation-extension": "^1.0.0",
                 "spryker/guzzle": "^2.4.1",
@@ -46151,9 +46151,9 @@
             ],
             "description": "TaxApp module",
             "support": {
-                "source": "https://github.com/spryker/tax-app/tree/0.2.0"
+                "source": "https://github.com/spryker/tax-app/tree/0.2.1"
             },
-            "time": "2023-10-26T12:55:48+00:00"
+            "time": "2023-11-22T15:24:58+00:00"
         },
         {
             "name": "spryker/tax-app-extension",
