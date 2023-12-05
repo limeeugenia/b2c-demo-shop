@@ -8123,16 +8123,16 @@
         },
         {
             "name": "spryker-shop/checkout-page",
-            "version": "3.29.2",
+            "version": "3.29.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/spryker-shop/checkout-page.git",
-                "reference": "1e4e57a6f9fa2bb7c92b3f590c43449dc7899524"
+                "reference": "f07b111a4c58a8d4e60ec2fc57faeb37c3d221ff"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/spryker-shop/checkout-page/zipball/1e4e57a6f9fa2bb7c92b3f590c43449dc7899524",
-                "reference": "1e4e57a6f9fa2bb7c92b3f590c43449dc7899524",
+                "url": "https://api.github.com/repos/spryker-shop/checkout-page/zipball/f07b111a4c58a8d4e60ec2fc57faeb37c3d221ff",
+                "reference": "f07b111a4c58a8d4e60ec2fc57faeb37c3d221ff",
                 "shasum": ""
             },
             "require": {
@@ -8187,6 +8187,7 @@
                 "spryker-shop/order-custom-reference-widget": "Add the module if you want to use order custom reference functionality",
                 "spryker-shop/product-packaging-unit-widget": "If you want to use components from module ProductPackagingUnitWidget or SummaryProductPackagingUnitWidgetPlugin: ^0.5.2",
                 "spryker-shop/quote-request-widget": "If you want to use QuoteRequestActionsWidget: ^2.2.0",
+                "spryker-shop/service-point-widget": "Add the module if you want to use service point widget",
                 "spryker-shop/shipment-type-widget": "Add the module if you want to use ShipmentTypeAddressFormWidget.",
                 "spryker/router": "Use this module when you want to use the Router.",
                 "spryker/shipment-cart-connector": "If you want to use shipment totals in quote or shipment source prices, min version 2.1.0",
@@ -8209,9 +8210,9 @@
             ],
             "description": "CheckoutPage module",
             "support": {
-                "source": "https://github.com/spryker-shop/checkout-page/tree/3.29.2"
+                "source": "https://github.com/spryker-shop/checkout-page/tree/3.29.3"
             },
-            "time": "2023-11-17T11:19:58+00:00"
+            "time": "2023-11-21T09:36:32+00:00"
         },
         {
             "name": "spryker-shop/checkout-page-extension",
