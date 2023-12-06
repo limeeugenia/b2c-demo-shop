@@ -8123,16 +8123,16 @@
         },
         {
             "name": "spryker-shop/checkout-page",
-            "version": "3.29.3",
+            "version": "3.30.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/spryker-shop/checkout-page.git",
-                "reference": "f07b111a4c58a8d4e60ec2fc57faeb37c3d221ff"
+                "reference": "3e35f3d78559b9ecdf17396b0e03147e1573c02a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/spryker-shop/checkout-page/zipball/f07b111a4c58a8d4e60ec2fc57faeb37c3d221ff",
-                "reference": "f07b111a4c58a8d4e60ec2fc57faeb37c3d221ff",
+                "url": "https://api.github.com/repos/spryker-shop/checkout-page/zipball/3e35f3d78559b9ecdf17396b0e03147e1573c02a",
+                "reference": "3e35f3d78559b9ecdf17396b0e03147e1573c02a",
                 "shasum": ""
             },
             "require": {
@@ -8141,7 +8141,7 @@
                 "spryker-shop/customer-page": "^2.46.0",
                 "spryker-shop/money-widget": "^1.0.0",
                 "spryker-shop/shop-application": "^1.0.0",
-                "spryker-shop/shop-ui": "^1.40.0",
+                "spryker-shop/shop-ui": "^1.73.1",
                 "spryker/application": "^3.8.0",
                 "spryker/calculation": "^4.2.0",
                 "spryker/cart": "^4.3.0 || ^5.0.0 || ^7.0.0",
@@ -8210,9 +8210,9 @@
             ],
             "description": "CheckoutPage module",
             "support": {
-                "source": "https://github.com/spryker-shop/checkout-page/tree/3.29.3"
+                "source": "https://github.com/spryker-shop/checkout-page/tree/3.30.0"
             },
-            "time": "2023-11-21T09:36:32+00:00"
+            "time": "2023-12-06T06:55:24+00:00"
         },
         {
             "name": "spryker-shop/checkout-page-extension",
@@ -9225,16 +9225,16 @@
         },
         {
             "name": "spryker-shop/customer-page",
-            "version": "2.49.0",
+            "version": "2.49.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/spryker-shop/customer-page.git",
-                "reference": "08ba64b07809edc26c5865c3289f50ccefeb744a"
+                "reference": "610a094acb128d0cda06f72cd0c1d7c49467b00b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/spryker-shop/customer-page/zipball/08ba64b07809edc26c5865c3289f50ccefeb744a",
-                "reference": "08ba64b07809edc26c5865c3289f50ccefeb744a",
+                "url": "https://api.github.com/repos/spryker-shop/customer-page/zipball/610a094acb128d0cda06f72cd0c1d7c49467b00b",
+                "reference": "610a094acb128d0cda06f72cd0c1d7c49467b00b",
                 "shasum": ""
             },
             "require": {
@@ -9318,9 +9318,9 @@
             ],
             "description": "CustomerPage module",
             "support": {
-                "source": "https://github.com/spryker-shop/customer-page/tree/2.49.0"
+                "source": "https://github.com/spryker-shop/customer-page/tree/2.49.1"
             },
-            "time": "2023-11-24T22:16:29+00:00"
+            "time": "2023-12-06T06:55:24+00:00"
         },
         {
             "name": "spryker-shop/customer-page-extension",
@@ -13153,20 +13153,20 @@
         },
         {
             "name": "spryker-shop/shop-ui",
-            "version": "1.73.0",
+            "version": "1.73.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/spryker-shop/shop-ui.git",
-                "reference": "ab79866fa9c9accd4d8b665e3a5ca0d52b8425bb"
+                "reference": "93ec142a6e50c38e4139cc6f8f0f938c683e61f7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/spryker-shop/shop-ui/zipball/ab79866fa9c9accd4d8b665e3a5ca0d52b8425bb",
-                "reference": "ab79866fa9c9accd4d8b665e3a5ca0d52b8425bb",
+                "url": "https://api.github.com/repos/spryker-shop/shop-ui/zipball/93ec142a6e50c38e4139cc6f8f0f938c683e61f7",
+                "reference": "93ec142a6e50c38e4139cc6f8f0f938c683e61f7",
                 "shasum": ""
             },
             "require": {
-                "php": ">=8.0",
+                "php": ">=8.1",
                 "spryker/form-extension": "^1.0.0",
                 "spryker/kernel": "^3.30.0",
                 "spryker/locale": "^3.0.0 || ^4.0.0",
@@ -13210,9 +13210,9 @@
             ],
             "description": "ShopUi module",
             "support": {
-                "source": "https://github.com/spryker-shop/shop-ui/tree/1.73.0"
+                "source": "https://github.com/spryker-shop/shop-ui/tree/1.73.1"
             },
-            "time": "2023-10-27T14:50:57+00:00"
+            "time": "2023-12-06T06:55:24+00:00"
         },
         {
             "name": "spryker-shop/shopping-list-page-extension",
